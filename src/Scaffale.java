@@ -28,7 +28,7 @@ public class Scaffale {
 		if (pos < numeroLibriPresenti) {
 			return(libri[pos]);
 		}
-		else {
+		else { 
 			return(null);
 		}
 	}

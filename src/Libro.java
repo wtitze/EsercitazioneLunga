@@ -1,5 +1,5 @@
 
-public class Libro {
+public class Libro { 
 	private int ISBN;
 	private String titolo;
 	

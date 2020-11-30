@@ -1,6 +1,6 @@
 /*
  * Creare la classe Libreria.
- * Una Libreria è formata da un numero variabile di scaffali, che viene fornito quando
+ * Una Libreria è formata da un numero variabile di scaffali, che viene fornito quando 
  * si crea la Libreria. Deve essere fornita anche la dimensione degli scaffali (uguale per tutti gli scaffali).
  * Ad esempio Libreria(10, 40) significa che la libreria è formata da 10 scaffali, 
  * ognuno dei quali può contenere 40 libri
